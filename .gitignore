@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# prints gerados a cada execução local
+automacao_amazon/evidencias/*.png
+!automacao_amazon/evidencias/.gitkeep
+~$*.xlsx
